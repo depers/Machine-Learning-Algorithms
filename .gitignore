@@ -1,0 +1,10 @@
+##########################
+# Jetbrains Ignore files #
+##########################
+.idea/
+
+#######################
+# Python Ignore files #
+#######################
+__pycache__/
+.ipynb_checkpoints/
