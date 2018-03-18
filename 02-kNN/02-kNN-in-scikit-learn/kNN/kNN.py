@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-__author__ = 'fengxiao'
-__date__ = '2018/2/23 12:06'
-
 import numpy as np
 from math import sqrt
 from collections import Counter
+
+__author__ = 'fengxiao'
+__date__ = '2018/2/23 12:06'
 
 
 class KNNClassify:

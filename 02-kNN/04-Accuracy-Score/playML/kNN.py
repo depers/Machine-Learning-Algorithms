@@ -1,11 +1,12 @@
-# -*- coding: utf-8 -*-
-__author__ = 'fengxiao'
-__date__ = '2018/2/23 12:49'
-
 import numpy as np
 from math import sqrt
 from collections import Counter
 from .metrics import accuracy_socre
+
+# -*- coding: utf-8 -*-
+__author__ = 'fengxiao'
+__date__ = '2018/2/23 12:49'
+
 
 class KNNClassify:
 
