@@ -26,7 +26,7 @@
 |2-6 网格搜索与k近邻算法中更多超参数|	[notebook](02-kNN/06-More-Hyper-Parameters-in-kNN-and-Grid-Search/06-More-Hyper-Parameters-in-kNN-and-Grid-Search.ipynb)|-|
 |2-7 数据归一化|[notebook](02-kNN/07-Feature-Scaling/07-Feature-Scaling.ipynb)|-|
 |2-8 scikit-learn中的Scaler|[notebook](02-kNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb)|[playML](02-kNN/08-Scaler-in-Scikit-Learn/playML/)
-|2-9 更多有关k近邻算法的思考|	[notebook](02-kNN/09-更多有关k近邻算法/09-更多有关k近邻算法.ipynb)|-|
+|2-9 更多有关k近邻算法的思考|	[notebook](02-kNN/09-更多有关k近邻算法的思考/09-更多有关k近邻算法.ipynb)|-|
 
 ## 感谢
 感谢前辈[liuyubobobo](https://github.com/liuyubobobo)，参考项目[Play-with-Machine-Learning-Algorithms](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)。
