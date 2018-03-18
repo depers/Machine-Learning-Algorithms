@@ -15,9 +15,10 @@
 |1-8 Numpy中的聚合运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/08-Aggregation-Operator-in-Numpy/08-Aggregation-Operator-in-Numpy.ipynb)|-|
 |1-9 Numpy中的arg运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/09-Arg-Operation-in-Numpy/09-Arg-Operation-in-Numpy.ipynb)|-|
 |1-10 Numpy中的比较和Fancy Indexing|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/10-Comparison-and-Fancy-Indexing/10-Comparison-and-Fancy-Indexing.ipynb)|-|
-||1-11 Matplotlib数据可视化基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/11-Matplotlib-Basics/11-Matplotlib-Basics.ipynb)|-|
+|1-11 Matplotlib数据可视化基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/11-Matplotlib-Basics/11-Matplotlib-Basics.ipynb)|-|
 |1-12 数据加载和简单的数据探索|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/12-Loading-Data-and-Simple-Data-Exploring/12-Loading-Data-and-Simple-Data-Exploring.ipynb)|-|
-|第二章 最基础的分类算法-k近邻算法 kNN|[章节文件夹](02-kNN/)|-|
+|第二章 最基础的分类算法-k近邻算法 kNN|[章节文件夹](02-kNN/)|示例代码|
+|:--------|:---------:|:---------:|
 |2-1 k近邻算法基础|[notebook](02-kNN/01-kNN-Basics/01-kNN-Basics.ipynb)|-|
 |2-2 scikit-learn中的机器学习算法封装|[notebook](02-kNN/02-kNN-in-scikit-learn/02-kNN-in-scikit-learn.ipynb)|[script](02-kNN/02-kNN-in-scikit-learn/)|
 |2-3 训练数据集，测试数据集|[notebook](02-kNN/03-Test-Our-Algorithm/03-Test-Our-Algorithm.ipynb)|[playML](02-kNN/03-Test-Our-Algorithm/playML/)|
