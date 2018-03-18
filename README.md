@@ -2,7 +2,7 @@
 
 今年大三了，要准备写一篇学年论文。近两年人工智能技术的兴起，我也对这个方向十分感兴趣。所以准备学习一些机器学习的知识，一是完成学年论文的撰写，二也为以后的工作和学习打一个基础。
 
-# 学习笔记目录
+## 学习笔记目录
 |第一章 Jupyter Notebook, Numpy和Matplotlib|[章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/)|code|
 |:--------|:---------:|:---------:|
 |1-1 Jupyter Notebook基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb)| - |
