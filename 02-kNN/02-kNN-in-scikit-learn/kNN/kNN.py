@@ -37,7 +37,7 @@ class KNNClassify:
         """
         assert X_predict is not None and self._y_train is not None, \
             'must fit before predict'
-        assert X_predict.shape[0] == self._X_train.shape[1], \
+        assert X_predict.shape[1] == self._X_train.shape[1], \
             'the feature number of X_predict must be equal to X_train'
 
         y_predict = [self._predict(x) for x in X_predict]

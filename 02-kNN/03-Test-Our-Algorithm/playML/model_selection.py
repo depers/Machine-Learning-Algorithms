@@ -8,6 +8,11 @@ import numpy as np
 def train_test_split(X, y, test_ratio=0.2, seed=None):
     """
     将数据 X 和 y 按照test_ratio分割成X_train, X_test, y_train, y_test
+    :param X: 训练数据集
+    :param y: 训练数据集的“标记”或“答案”
+    :param test_ratio: 测试数据集所占的比例
+    :param seed: 随机种子
+    :return:
     """
 
     assert X.shape[0] == y.shape[0], \
