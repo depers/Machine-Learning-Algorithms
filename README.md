@@ -3,14 +3,14 @@
 今年大三了，要准备写一篇学年论文。近两年人工智能技术的兴起，我也对这个方向十分感兴趣。所以准备学习一些机器学习的知识，一是完成学年论文的撰写，二也为以后的工作和学习打一个基础。
 
 ## 学习笔记目录
-|第一章 Jupyter Notebook, Numpy和Matplotlib|[章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/)|code|
-|:--------|:---------:|:---------:|
-|1-1 Jupyter Notebook基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb)| - |
-|1-2 Jupyter Notebook中的魔法命令|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/02-Magic-Commands.ipynb)|	[script](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/)
-|1-3 Numpy数据基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/03-Numpy-Array-Basics/03-Numpy-Array-Basics.ipynb)|-|
-|1-4 创建Numpy数组(和矩阵)|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/04-Create-Numpy-Array/04-Create-Numpy-Array.ipynb)|-|
-|1-5 Numpy数组(和矩阵)的基本操作|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/05-Numpy-Array-Basic-Operations/05-Numpy-Array-Basic-Operations.ipynb)|-|
-|1-6 Numpy数组(和矩阵)的合并与分割|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/06-Concatenate-and-Split/06-Concatenate-and-Split.ipynb)|-|
+|第一章 Jupyter Notebook, Numpy和Matplotlib|[章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/)|code|日期|
+|:--------|:---------:|:---------:||---------|
+|1-1 Jupyter Notebook基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb)| - |2019/01/15|
+|1-2 Jupyter Notebook中的魔法命令|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/02-Magic-Commands.ipynb)|	[script](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/)|2019/01/15|
+|1-3 Numpy数据基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/03-Numpy-Array-Basics/03-Numpy-Array-Basics.ipynb)|-|2019/01/15|
+|1-4 创建Numpy数组(和矩阵)|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/04-Create-Numpy-Array/04-Create-Numpy-Array.ipynb)|-|2019/01/15|
+|1-5 Numpy数组(和矩阵)的基本操作|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/05-Numpy-Array-Basic-Operations/05-Numpy-Array-Basic-Operations.ipynb)|-|2019/01/15|
+|1-6 Numpy数组(和矩阵)的合并与分割|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/06-Concatenate-and-Split/06-Concatenate-and-Split.ipynb)|-|2019/01/15|
 |1-7 Numpy中的矩阵运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/07-Computation-on-Numpy-Array/07-Computation-on-Numpy-Array.ipynb)|-|
 |1-8 Numpy中的聚合运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/08-Aggregation-Operator-in-Numpy/08-Aggregation-Operator-in-Numpy.ipynb)|-|
 |1-9 Numpy中的arg运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/09-Arg-Operation-in-Numpy/09-Arg-Operation-in-Numpy.ipynb)|-|
@@ -28,5 +28,7 @@
 |2-8 scikit-learn中的Scaler|[notebook](02-kNN/08-Scaler-in-Scikit-Learn/08-Scaler-in-Scikit-Learn.ipynb)|[playML](02-kNN/08-Scaler-in-Scikit-Learn/playML/)
 |2-9 更多有关k近邻算法的思考|	[notebook](02-kNN/09-更多有关k近邻算法的思考/09-更多有关k近邻算法.ipynb)|-|
 
+## 课程学习笔记
+[Python3入门机器学习算法](【基础】Python3入门机器学习算法.md)
 ## 感谢
 感谢前辈[liuyubobobo](https://github.com/liuyubobobo)，参考项目[Play-with-Machine-Learning-Algorithms](https://github.com/liuyubobobo/Play-with-Machine-Learning-Algorithms)。
