@@ -3,8 +3,8 @@
 今年大三了，要准备写一篇学年论文。近两年人工智能技术的兴起，我也对这个方向十分感兴趣。所以准备学习一些机器学习的知识，一是完成学年论文的撰写，二也为以后的工作和学习打一个基础。
 
 ## 学习笔记目录
-|第一章 Jupyter Notebook, Numpy和Matplotlib|[章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/)|code|日期|
-|:--------|:---------:|:---------:||:---------:|
+|第一章 Jupyter Notebook, Numpy和Matplotlib|[章节文件夹](01-Jupyter-Notebook-Numpy-and-Matplotlib/)|code|日期|   
+|:--------|:---------:|:---------:|:---------:|
 |1-1 Jupyter Notebook基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/01-Jupyter-Notebook-Basics/01-Jupyter-Notebook-Basics.ipynb)| - |2019/01/15|
 |1-2 Jupyter Notebook中的魔法命令|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/02-Magic-Commands.ipynb)|	[script](01-Jupyter-Notebook-Numpy-and-Matplotlib/02-Magic-Commands/)|2019/01/15|
 |1-3 Numpy数据基础|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/03-Numpy-Array-Basics/03-Numpy-Array-Basics.ipynb)|-|2019/01/15|
