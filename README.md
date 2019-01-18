@@ -11,7 +11,7 @@
 |1-4 创建Numpy数组(和矩阵)|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/04-Create-Numpy-Array/04-Create-Numpy-Array.ipynb)|-|2019/01/15|
 |1-5 Numpy数组(和矩阵)的基本操作|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/05-Numpy-Array-Basic-Operations/05-Numpy-Array-Basic-Operations.ipynb)|-|2019/01/15|
 |1-6 Numpy数组(和矩阵)的合并与分割|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/06-Concatenate-and-Split/06-Concatenate-and-Split.ipynb)|-|2019/01/15|
-|1-7 Numpy中的矩阵运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/07-Computation-on-Numpy-Array/07-Computation-on-Numpy-Array.ipynb)|-|-|
+|1-7 Numpy中的矩阵运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/07-Computation-on-Numpy-Array/07-Computation-on-Numpy-Array.ipynb)|-|2019/01/18|
 |1-8 Numpy中的聚合运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/08-Aggregation-Operator-in-Numpy/08-Aggregation-Operator-in-Numpy.ipynb)|-| -|
 |1-9 Numpy中的arg运算|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/09-Arg-Operation-in-Numpy/09-Arg-Operation-in-Numpy.ipynb)|-|- |
 |1-10 Numpy中的比较和Fancy Indexing|[notebook](01-Jupyter-Notebook-Numpy-and-Matplotlib/10-Comparison-and-Fancy-Indexing/10-Comparison-and-Fancy-Indexing.ipynb)|-| -|
